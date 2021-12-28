@@ -1,4 +1,5 @@
-# elixir-getting-started-tutorial
+# Elixir getting started tutorials
+
 Elixir getting started tutorials
 
 ## Mix and OTP tutorials
