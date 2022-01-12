@@ -1,5 +1,5 @@
 defmodule KV.Bucket do
-  # use Agent
+  use Agent, restart: :temporary
 
   @spec start_link((() -> any)) :: {:error, any} | {:ok, pid}
   def start_link(_opts) do
