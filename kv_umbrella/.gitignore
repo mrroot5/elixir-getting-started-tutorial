@@ -21,3 +21,8 @@ erl_crash.dump
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# IDE
+.elixir_ls/
+.idea
+.vscode

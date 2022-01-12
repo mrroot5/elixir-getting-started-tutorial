@@ -28,6 +28,7 @@ kv-*.tar
 # IDE
 .elixir_ls/
 .idea
+.vscode
 
 *.beam
 /config/*.secret.exs
